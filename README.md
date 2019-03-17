@@ -23,4 +23,5 @@ yarn add --dev @babel/plugin-proposal-class-properties
 yarn add style-loader css-loader --dev
 
 yarn add node-sass --dev
+
 yarn add sass-loader --dev
