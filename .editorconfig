@@ -1,0 +1,13 @@
+# root = true makes this '.editorconfig' file work only for it's
+# containing directory
+root = true
+
+# '*' makes sure all file types are treated (could be js etc)
+[*]
+indent_style = space
+indent_size = 2
+# end_of_line = lf make the same line break code for mac, linux and windows
+end_of_line = lf
+charset = utf-8
+trim_trailing_whitespace = true
+insert_final_newline = true
